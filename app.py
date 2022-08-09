@@ -1,5 +1,5 @@
-from sqlite3 import Cursor
-import mysql.connector
+from sqlite3 import Cursor #pip install db-sqlite3
+import mysql.connector #pip install mysql-connector #pip install mysql-connector-python
 from mysql.connector import Error
 # import pandas as pd
 
